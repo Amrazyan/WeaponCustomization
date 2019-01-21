@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 3696bdab66641a1488be95551f28752d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barrel_Short
+    100002: But_back
+    100004: But_Uper
+    100006: HAMR
+    100008: HAMR_Linsse_01
+    100010: HAMR_Linsse_01_2
+    100012: HAMR_Linsse_02
+    100014: Mag030
+    100016: Mag30 glas
+    100018: Podium
+    100020: Receiver
+    100022: Sight Down
+    100024: Suppressor
+    100026: //RootNode
+    400000: Barrel_Short
+    400002: But_back
+    400004: But_Uper
+    400006: HAMR
+    400008: HAMR_Linsse_01
+    400010: HAMR_Linsse_01_2
+    400012: HAMR_Linsse_02
+    400014: Mag030
+    400016: Mag30 glas
+    400018: Podium
+    400020: Receiver
+    400022: Sight Down
+    400024: Suppressor
+    400026: //RootNode
+    2100000: Receiver
+    2100002: BarrelShort
+    2100004: Suppressor
+    2100006: IronSight
+    2100008: Hamr
+    2100010: HAMR_Linse_1
+    2100012: HAMR_Linse_2
+    2100014: 'Material #190'
+    2100016: Mag30 Glass
+    2100018: Podium
+    2300000: Barrel_Short
+    2300002: But_back
+    2300004: But_Uper
+    2300006: HAMR
+    2300008: HAMR_Linsse_01
+    2300010: HAMR_Linsse_01_2
+    2300012: HAMR_Linsse_02
+    2300014: Mag030
+    2300016: Mag30 glas
+    2300018: Podium
+    2300020: Receiver
+    2300022: Sight Down
+    2300024: Suppressor
+    3300000: Barrel_Short
+    3300002: But_back
+    3300004: But_Uper
+    3300006: HAMR
+    3300008: HAMR_Linsse_01
+    3300010: HAMR_Linsse_01_2
+    3300012: HAMR_Linsse_02
+    3300014: Mag030
+    3300016: Mag30 glas
+    3300018: Podium
+    3300020: Receiver
+    3300022: Sight Down
+    3300024: Suppressor
+    4300000: Receiver
+    4300002: Barrel_Short
+    4300004: Suppressor
+    4300006: Sight Down
+    4300008: HAMR
+    4300010: HAMR_Linsse_01
+    4300012: HAMR_Linsse_02
+    4300014: HAMR_Linsse_01_2
+    4300016: Mag030
+    4300018: Mag30 glas
+    4300020: But_Uper
+    4300022: But_back
+    4300024: Podium
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BarrelShort
+    second: {fileID: 2100000, guid: 4b4ef34fd2c0f964a8325d0230a02447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HAMR_Linse_1
+    second: {fileID: 2100000, guid: 58eb39b68f3354e40b3b8800be97ada5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HAMR_Linse_2
+    second: {fileID: 2100000, guid: a0ce4df5b729a1a4a8a5051123605ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hamr
+    second: {fileID: 2100000, guid: c2d12aea465193f43a024d13c8cdc40e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IronSight
+    second: {fileID: 2100000, guid: 028beea7152abf94a8e385ee6eeda657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mag30 Glass
+    second: {fileID: 2100000, guid: d36ef8988fc196d4491f7b436f49951c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #190'
+    second: {fileID: 2100000, guid: d36ef8988fc196d4491f7b436f49951c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Podium
+    second: {fileID: 2100000, guid: d5ab138128b54e048b63f8b069bfe988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Receiver
+    second: {fileID: 2100000, guid: ca2bea078b8dfa64b9e30998811152d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suppressor
+    second: {fileID: 2100000, guid: 5f60f1b8fc6287e42bdc824e0d4823ab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
